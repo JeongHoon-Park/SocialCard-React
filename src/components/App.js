@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import Header from './Header.js';
 import Content from './Content.js';
 import Preview from './Preview.js';
+import PreviewDescription from './PreviewDescription.js';
 import '../css/App.css';
 
 const writtenDate = new Date();
@@ -29,6 +30,7 @@ class App extends Component {
             <Header author={this.state.author} date={this.state.writeDate}/>
             <Content text={this.state.text}/>
             <Preview link={this.state.link} author={this.state.author} text={this.state.text}/>
+            <PreviewDescription text={this.state.text} link={this.state.link}/>
           </div>      
         </div>
       </div>

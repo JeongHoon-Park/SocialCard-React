@@ -50,6 +50,16 @@
   color : orange;
 }
 
+.Desc{
+  border : 0.7px solid rgb(190, 190, 190);
+  font-size : 1rem !important;
+  margin-bottom : 10px;
+  padding-left : 15px;
+  padding-right : 30px;
+  padding-top : 15px;
+  padding-bottom : 15px;
+}
+
 .SmallImage{
   background-color : gray;
   width : 40px;
