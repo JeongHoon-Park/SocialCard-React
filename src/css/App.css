@@ -1,6 +1,3 @@
-.App {
-  text-align: center;
-}
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
@@ -21,6 +18,25 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Card{
+  border : 2px solid rgb(134, 129, 129);
+  padding-left : 60px;
+  padding-right : 5px;
+}
+
+.CardBox{
+  width : 200px;
+  height : 45px;
+}
+
+.Index{
+  
+}
+.Link{
+  color : rgb(105, 106, 136) !important;
+  font-size : 1rem;
 }
 
 @keyframes App-logo-spin {
