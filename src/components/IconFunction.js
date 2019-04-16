@@ -1,4 +1,5 @@
 import React from 'react';
+import IconsIndex from '../Icons/IconsIndex.js';
 
 export default class IconFunction extends React.Component{
     constructor(props){
@@ -13,7 +14,7 @@ export default class IconFunction extends React.Component{
     render(){
         return(
             <div className="d-flex flex-row">
-                <img src="../src/conversation.svg" width="30" height="30"></img>
+                <IconsIndex name="Conversation" width={30} viewBox='0 0 30 30'/>
             </div>
         )
     }
