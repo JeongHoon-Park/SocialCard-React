@@ -14,7 +14,11 @@ export default class IconFunction extends React.Component{
     render(){
         return(
             <div className="d-flex flex-row">
-                <IconsIndex name="Conversation" width={30} viewBox='0 0 30 30'/>
+                <IconsIndex name="Conversation" width={30} />
+                <p>{this.state.like}</p>
+                <IconsIndex name="Like_blank" width={30}/>
+                <IconsIndex name="Retweet" width={30}/>
+                <IconsIndex name="Like_filled" width={30} filled='#D75A4A'/>
             </div>
         )
     }
