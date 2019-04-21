@@ -17,6 +17,8 @@ Inspired : https://daveceddia.com/react-practice-projects/<br>
 
 코딩하는 과정에서 아래 리포지토리를 참고하였습니다.<br>
 Reference : 
-https://github.com/syntra/gatsby-remark-social-cards
+https://github.com/syntra/gatsby-remark-social-cards <br><br>
 
-
+코드를 내려받으신 뒤 실행하기 위해서는 <br>
+```npm install```     명령어를 실행시킨 뒤
+```npm start```       로 local server를 돌립니다. 3000번 포트로 들어가면 보실 수 있습니다.
