@@ -4,7 +4,7 @@ import StringDate from './TrimStringHeader.js';
 const App = (props)=>{
 
     return(
-        <div>
+        <div className = "Margin60">
         <h5 className="my-1">
             {props.author} <a className ="Link">@{props.author} ・ <StringDate
             dateMonth={props.date.getMonth()} dateDay={props.date.getDate()}/>

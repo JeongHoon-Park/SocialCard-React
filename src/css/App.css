@@ -20,9 +20,12 @@
   color: #61dafb;
 }
 
+.bg-orange{
+  background-color : orange;
+}
+
 .Card{
   border : 2px solid rgb(134, 129, 129);
-  padding-left : 60px;
   padding-right : 5px;
 }
 
@@ -53,15 +56,16 @@
   font-size : 1rem;
 }
 
-.bg-orange{
-  background-color : orange;
+.Margin60{
+  margin-left : 60px;
 }
 
-.text-orange{
-  color : orange;
+.Profile{
+  float : left;
+  width : 50px;
+  height : 50px;
+  border-radius : 25px;
 }
-
-
 
 .SmallImage{
   background-color : gray;
@@ -69,6 +73,10 @@
   height : 40px;
   margin : 5px;
   align-items : right;
+}
+
+.text-orange{
+  color : orange;
 }
 
 @keyframes App-logo-spin {

@@ -4,10 +4,10 @@ const SVG = ({
     name = '',
     style = {},
     fill = '#000',
-    width = '100%',
+    width = "100%",
     className = '',
     height = '100%',
-    viewBox ='0 0 32 32'
+    viewBox = '0 0 32 32'
 }) =>
     <svg 
         height={height}

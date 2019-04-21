@@ -2,7 +2,7 @@ import React from 'react';
 
 const PreviewDescription = (props) => {
     return(
-        <div className="Desc" onClick="(()=>{
+        <div className="Desc Margin60" onClick="(()=>{
             
         })">
             <div className="font-weight-bold pb-1">{props.text}</div>

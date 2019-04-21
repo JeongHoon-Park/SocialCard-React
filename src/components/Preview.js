@@ -3,7 +3,7 @@ import React from 'react';
 const Preview = (props) => {
 
     return (
-        <div className="bg-orange p-2">
+        <div className="bg-orange p-2 Margin60">
             <div className="d-flex flex-row Index text-white align-items-center justify-content-center">
                 <h5 className="mb-0">DEV</h5>
             </div>
