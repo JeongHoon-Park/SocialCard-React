@@ -12,10 +12,10 @@ svg 처리는 잘 해내지 못했습니다.<br><br>
 아래 링크를 참고하시면 됩니다.<br>
 Inspired : 
 https://daveceddia.com/react-practice-projects/
-![example](./image/example.jpg)
+![example](./image/example.png)
 <br>
 
-코딩하는 과정에서 아래 리포지토리를 참고하였습니다.
+코딩하는 과정에서 아래 리포지토리를 참고하였습니다.<br>
 Reference : 
 https://github.com/syntra/gatsby-remark-social-cards
 
