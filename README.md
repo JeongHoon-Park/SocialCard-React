@@ -1,22 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+React를 사용하여 만든 Social Card Component 입니다.<br>
+SNS 타임라인에서 흔히 볼 수 있는 Card 형식입니다.<br>
+컴포넌트를 바로 가져다가 사용할 수 있게 만들고자 했습니다.<br>
 
-In the project directory, you can run:
+![social-card-react](./image/social-card-react.jpg)
+좋아요와 공유 갯수를 표시할 수 있습니다.<br>
+svg 처리는 잘 해내지 못했습니다.<br><br>
 
-### `npm start`
-
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
+이 프로젝트는 "6 Fun React Project You Can Build Today"에서 영감을 받아 만들어졌습니다.<br>
+아래 링크를 참고하시면 됩니다.<br>
 Inspired : 
 https://daveceddia.com/react-practice-projects/
+![example](./image/example.jpg)
+<br>
+
+코딩하는 과정에서 아래 리포지토리를 참고하였습니다.
 Reference : 
 https://github.com/syntra/gatsby-remark-social-cards
 
 
-React를 사용하여 만든 Social Card Component 입니다.
-컴포넌트를 바로 가져다가 사용할 수 있게 만들고자 했습니다.
